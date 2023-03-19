@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com</loc>
+    <image:image>
+       <image:loc>http://nicolettejohnsonphotography.com/images/ceramics/006.jpg</image:loc>
+       <image:caption>Nicolette Johnson Photography</image:caption>
+    </image:image>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/about.html</loc>
+    <image:image>
+       <image:loc>http://nicolettejohnsonphotography.com/images/about.jpg</image:loc>
+       <image:caption>About Nicolette Johnson</image:caption>
+    </image:image>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/press.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/press-peppermint.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/press-qldhomes.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/press-hearth.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-adinadarren.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-bardon-cottage.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-casstim.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-china.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-gillianbellcake.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-howclosewewere.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-jennifer-orland-ceramics.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-leishasam.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-naomitoby.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-nicolette-johnson-ceramics.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-paladar.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-projectzero.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-solitude.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-sophierobin.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-talisman.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-thethirdrow.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-triibeworkshop.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-westendapartment.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>http://nicolettejohnsonphotography.com/story-zhouse.html</loc>
+    <lastmod>2016-10-03</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
